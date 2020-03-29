@@ -17,7 +17,7 @@ e.g. <script src="http://welcome.2d/hns.js"></script> if it's just HTML
       display: block;
     }
 
-* Now just add "nohns" to anything you want to show only to users who *aren't* able to resolve HNS, and "hns" to anything you want to show only to users who *can*.
+* Now just add a "nohns" class to anything you want to show only to users who *aren't* able to resolve HNS, and an "hns" class to anything you want to show only to users who *can*.
 
 ## Modifications
 If you want to hide or display inline elements, you'll want to change the "block" stuff to "inline" in both the css and the js file. You'll need to rehost the js file on your own handshake domain. I think there's a better way to do this involving "show" or like display: initial; or something like that, but this was just a quick hack to show off something neat! If you have a better way to do this, please let me know.
