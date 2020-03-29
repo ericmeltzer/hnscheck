@@ -1,7 +1,7 @@
 # hnscheck
 A simple trick for checking whether user can resolve HNS addresses, from a static site. 
 
-## Using hnscheck.js
+## Using hnscheck
 * Add a link to load http://welcome.2d/hns.js to your site's code
 e.g. <script src="http://welcome.2d/hns.js"></script> if it's just HTML
 
